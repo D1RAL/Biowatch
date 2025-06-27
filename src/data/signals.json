@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "point",
+    "lat": 5.3599517,
+    "lng": -4.0082563,
+    "region": "Abidjan",
+    "species": "Jacinthe d'eau",
+    "urgency": "critique",
+    "impact": "Bloque la navigation et asphyxie la faune aquatique.",
+    "date": "2024-06-20",
+    "photo": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 2,
+    "type": "zone",
+    "lat": 7.683333,
+    "lng": -5.016667,
+    "region": "Bouaké",
+    "species": "Herbe du Laos",
+    "urgency": "modéré",
+    "impact": "Rend les terres agricoles improductives.",
+    "date": "2024-06-18",
+    "photo": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  }
+] 
